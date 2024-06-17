@@ -2,7 +2,7 @@
 
 ### Olá eu sou Claudio Maia! 👋
 
-Aficionado por tecnologia, sempre procurando aprender cada vez mais. Atualmente em um projeto chamado Desenvolve do Grupo O Boticário onde adquiri vários conhecimentos na área de tecnologia.
+Aficionado por tecnologia, sempre procurando aprender cada vez mais. Atualmente em um projeto chamado Desenvolve do Grupo O Boticário em conjunto com a Alura onde adquiri vários conhecimentos na área de tecnologia.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-rmaia/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Claudiorobmaia)
